@@ -1,6 +1,7 @@
 
 ## Setup
 
+* clone repo
 * `npm install`
 * Create a postgres database named "stockimages"
 * Run npm 'run seed'
